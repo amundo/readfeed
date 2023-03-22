@@ -1,0 +1,10 @@
+https://blog.damato.design/feed.xml
+https://silvestar.codes/rss.xml 
+https://www.stefanjudis.com/rss.xml
+https://alvaromontoro.com/feed.rss
+https://philna.sh/feed.xml
+https://liptrot.org/feed.xml
+http://feeds.feedburner.com/brad-frosts-blog
+https://coryrylan.com/feed.xml
+https://www.waleedmumtaz.com/blog/rss.xml
+
