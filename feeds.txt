@@ -1,0 +1,10 @@
+http://feeds.feedburner.com/brad-frosts-blog
+https://alvaromontoro.com/feed.rss
+https://blog.damato.design/feed.xml
+https://coryrylan.com/feed.xml
+https://liptrot.org/feed.xml
+https://philna.sh/feed.xml
+https://silvestar.codes/rss.xml 
+https://www.stefanjudis.com/rss.xml
+https://www.waleedmumtaz.com/blog/rss.xml
+https://www.zachleat.com/web/feed/
