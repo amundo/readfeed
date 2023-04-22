@@ -20,7 +20,7 @@ for await(let url of urls){
 
 let entries = feeds.flatMap(feed => feed.entries)
 
-entries.sort((a,b) => a.published < b.published ? 1 : -1)
+entries.sort(() => Math.random() < .5)
 
 let renderEntry = entry => `<div class=entry>
 <a href="${entry.links[0].href}">${entry.title.value}</a> [${entry?.author?.name || "anonymous"}]
@@ -30,6 +30,11 @@ let renderEntry = entry => `<div class=entry>
 let renderEntries = entries => `
 <!doctype html>
 <title>feed</title>
+<style>
+.entry {
+  padding: 1em;
+}
+</style>
 <meta charset=utf-8>
 <body>
   ${entries.map(renderEntry).join('\n')}
